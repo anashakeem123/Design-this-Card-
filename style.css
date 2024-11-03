@@ -1,0 +1,136 @@
+/* body section */
+.body{
+    background-color:  #D3D3D3;
+}
+
+/* main section */
+.main{
+    margin: 130px;
+    margin-right: 500px;
+    margin-left: 450px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 16px;
+    
+    
+}
+
+
+/* image section */
+.img0{
+    border-radius: 17px;
+}
+
+.img0:hover{
+    background-image: url(shoppin.gif);
+}
+
+/* button section */
+.section-button{
+    line-height: 50px;
+    margin-left: 18px;
+
+}
+
+.button1{
+    color: grey;
+    border-radius: 28px;
+    border: #D3D3D3;
+    height: 30px;
+   width: 60px;
+}
+
+.button1:hover{
+    color: red;
+    border-radius: 28px;
+    border: #D3D3D3;
+    height: 30px;
+   width: 60px;
+}
+
+
+/* .button2 section */
+.button2{
+    color: grey;
+    border-radius: 28px;
+    border: #D3D3D3;
+    height: 30px;
+   width: 60px;
+   margin-left: 14px;
+}
+
+.button2:hover{
+    color: red;
+    border-radius: 28px;
+    border: #D3D3D3;
+    height: 30px;
+   width: 60px;
+   margin-left: 14px;
+}
+
+ /* main .shopping-heading */
+
+.shopping-heading{
+    text-transform: capitalize;
+    font-size: x-large;
+    font-weight: bolder;
+
+}
+
+.shopping-heading:hover{
+    color: blue;
+    text-decoration: underline;
+    text-transform: uppercase;   
+}
+
+/* main .contant */
+
+.contant{
+    color: grey;
+}
+
+.contant:hover{
+   text-decoration: underline red;
+
+}
+
+/* button section :last-child */
+.b-r{
+    text-align: center;
+
+   
+}
+
+.read{
+   color: blue;
+   background-color: rgb(144,213,255);
+    height: 40px;
+    width: 120px;
+    border-radius: 28px;
+    border: #D3D3D3;
+}
+
+.read:hover{
+    color: red;
+   background-color: rgb(144, 255, 164);
+    height: 40px;
+    width: 120px;
+    border-radius: 28px;
+    border: #D3D3D3;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
